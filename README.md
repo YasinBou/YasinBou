@@ -1,6 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d6YmhkNG9idHcwcHU3d3hibzJvNDJzMGVjYzg5ZDVhbmRucmxveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9o9dh1JRGThC1qxGTJ/giphy.gif" width="300"/>
+<img src="gif.gif" width="300"/>
 
-# Hi there, I'm Yasin!
+# Hi there, I'm Yasin
 
 I'm a Software Engineering graduate from the **Amsterdam University of Applied Sciences**, with a minor in Philosophy. I’m passionate about building scalable systems, developing real-time web applications, and improving user experiences through thoughtful engineering.  
 
