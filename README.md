@@ -1,11 +1,3 @@
-<img src="gif.gif" width="300"/>
-
-# Hi there, I'm Yasin
-
-I'm a Software Engineering graduate from the **Amsterdam University of Applied Sciences**, with a minor in Philosophy. I’m passionate about building scalable systems, developing real-time web applications, and improving user experiences through thoughtful engineering.  
-
-I’ve gained hands-on experience through internships and projects that involve modern web technologies, distributed systems, and AI-powered solutions.
-
 ## Work Experience
 
 ### NOS – Software Engineer Intern *(Sep 2024 – Feb 2025)*
