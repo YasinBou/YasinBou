@@ -6,7 +6,7 @@
 - Engineered a **distributed pub/sub architecture** using **Redis** for real-time session synchronization and conflict resolution.
 
 ### Ahold Delhaize / Albert Heijn – Software Engineer Intern *(Jan 2023 – Jun 2023)*
-- Worked on [Scan Je Recept](https://labs.ah.nl/projecten/scan-je-recept).
+- Worked on [Scan Je Recept](https://labs.ah.nl/projecten/scan-je-recept)
 - Used **OCR** to extract recipe data and integrate it into the user’s online shopping basket.
 - Built a custom image compression algorithm to reduce 3–5MB images to 60–80KB.
 - Collaborated with **Microsoft** to integrate their **OCR API**.
