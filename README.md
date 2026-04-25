@@ -2,7 +2,7 @@
 
 ### Ahold Delhaize / Albert Heijn – Software Engineer *(Dec 2025 – Present)*
 - Maintain Kotlin and Spring Boot microservices with RESTful APIs and GraphQL, leveraging Apache Kafka for event-driven messaging and asynchronous communication in an event-driven architecture.
-- Deploy, monitor, and scale microservices with Docker, Kubernetes, and OpenLens, while maintaining reliability via comprehensive unit, integration, and end-to-end tests.
+- Support application reliability through extensive automated unit, component, integration, and end-to-end testing.
 - Collaborate in Agile teams to implement new features, troubleshoot production issues, and contribute to code quality through peer reviews and CI/CD practices.
 
 ### NOS – Software Engineer Intern *(Sep 2024 – Feb 2025)*
